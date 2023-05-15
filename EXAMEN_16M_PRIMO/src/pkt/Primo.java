@@ -17,7 +17,7 @@ public class Primo {
 		}else 
 			System.out.println(" no es par");
 		
-
+		System.out.println(" final");
 	}
 
 }
